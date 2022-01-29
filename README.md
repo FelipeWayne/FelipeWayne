@@ -42,16 +42,13 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="473em" src="https://github-readme-stats.vercel.app/api?username=FelipeWayne&show_icons=true&theme=vision-friendly-dark" alt="FelipeWayne's stats"/>
-<img  align="right" width="473em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeWayne&theme=vision-friendly-dark" alt="GitHub streak stats"/>
-</p>
-  
-  
 <p align="middle">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeWayne&show_icons=true&theme=vision-friendly-dark" alt="FelipeWayne's stats"/>
+<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeWayne&theme=vision-friendly-dark" alt="GitHub streak stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&theme=vision-friendly-dark" alt="FelipeWayne's most languages"/>
 
 </p>
+
 
 <br><br>
 

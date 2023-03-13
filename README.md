@@ -25,7 +25,6 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -41,13 +40,17 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
+<p align="middle">
+  <a href="https://wakatime.com/@b6856679-2185-4215-b6da-6d2e5f2ab4ec"><img src="https://wakatime.com/badge/user/b6856679-2185-4215-b6da-6d2e5f2ab4ec.svg" alt="Total time coded since Jun 15 2020" /></a>
+  <p align="middle">
 
 <p align="middle">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=FelipeWayne&show_icons=true&theme=vision-friendly-dark" alt="FelipeWayne's stats"/>
-<img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeWayne&theme=vision-friendly-dark" alt="GitHub streak stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&theme=vision-friendly-dark" alt="FelipeWayne's most languages"/>
+<img width="530em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeWayne&show_icons=true&theme=vision-friendly-dark" alt="FelipeWayne's stats"/>
+<img width="530em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&theme=vision-friendly-dark" alt="FelipeWayne's most languages"/>
+  
+ <!-- <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeWayne&theme=vision-friendly-dark" alt="GitHub streak stats"/> -->
 
-</p>
+<p align="middle">
 
 
 <br><br>

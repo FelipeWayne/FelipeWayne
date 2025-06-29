@@ -45,8 +45,9 @@ Type this command `make generate-gif` to generate [assets/github.gif](assets/git
   <p align="middle">
 
 <p align="middle">
-<img width="530em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FelipeWayne&show_icons=true&theme=vision-friendly-dark" alt="FelipeWayne's stats"/>
-<img width="530em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&theme=vision-friendly-dark" alt="FelipeWayne's most languages"/>
+<img width="530em" src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api?username=felipewayne&show_icons=true&theme=vision-friendly-dark&exclude_repo=chatwoot_app,chatwoot&rank_icon=github" alt="FelipeWayne's stats"/>
+<img width="530em" src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&theme=vision-friendly-dark&exclude_repo=chatwoot_app,chatwoot" alt="FelipeWayne's most languages"/>
+<img width="530em" src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/wakatime?username=FelipeWayne&theme=vision-friendly-dark&layout=compact&langs_count=20" alt="WakaTime Stats"/>
  <!-- <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeWayne&theme=vision-friendly-dark" alt="GitHub streak stats"/> -->
 
 <p align="middle">

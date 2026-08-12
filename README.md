@@ -35,7 +35,7 @@ Também digo quando **não** vale automatizar. Isso economiza mais tempo que qua
 
 `[ CONTATO ]`
 
-Tem alguma tarefa chata que se repete toda semana? Me conta qual é — se der para automatizar, eu digo como. Se não der, eu digo isso também.
+Tem alguma tarefa chata que se repete toda semana? Me conta. Se der pra automatizar, eu mostro como. Se não der, falo na lata.
 
 ```console
 felipe@wayne:~$ ./contato.sh

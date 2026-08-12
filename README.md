@@ -27,8 +27,8 @@ Também digo quando **não** vale automatizar. Isso economiza mais tempo que qua
 
 <!-- placeholder: trocar por posts reais quando publicar -->
 
-- [Título do post](https://www.linkedin.com/in/felipewayne-dev/) — LinkedIn
-- [Título do post](https://www.linkedin.com/in/felipewayne-dev/) — LinkedIn
+- [Título do post](https://www.linkedin.com/in/felipeaugusto-dev/) — LinkedIn
+- [Título do post](https://www.linkedin.com/in/felipeaugusto-dev/) — LinkedIn
 - [Título do post](https://felipewayne.dev) — felipewayne.dev
 
 <img src="assets/divider.svg" alt="" width="100%">
@@ -43,5 +43,5 @@ felipe@wayne:~$ ./contato.sh
 ```
 
 [![Site](https://img.shields.io/badge/felipewayne.dev-222831?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAzMiIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJGZWxpcGVXYXluZSI%2BPHJlY3QgeD0iNyIgeT0iNyIgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiBmaWxsPSIjNzZBQkFFIi8%2BPC9zdmc%2B)](https://felipewayne.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-222831?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRUVFRUVFIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/felipewayne-dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-222831?style=flat-square&logo=instagram&logoColor=EEEEEE)](https://instagram.com/felipe_wayne_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222831?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRUVFRUVFIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBkPSJNMTE2IDNIMTJhOC45MSA4LjkxIDAgMDAtOSA4Ljh2MTA0LjQyYTguOTEgOC45MSAwIDAwOSA4Ljc4aDEwNGE4LjkzIDguOTMgMCAwMDktOC44MVYxMS43N0E4LjkzIDguOTMgMCAwMDExNiAzek0zOS4xNyAxMDdIMjEuMDZWNDguNzNoMTguMTF6bS05LTY2LjIxYTEwLjUgMTAuNSAwIDExMTAuNDktMTAuNSAxMC41IDEwLjUgMCAwMS0xMC41NCAxMC40OHpNMTA3IDEwN0g4OC44OVY3OC42NWMwLTYuNzUtLjEyLTE1LjQ0LTkuNDEtMTUuNDRzLTEwLjg3IDcuMzYtMTAuODcgMTVWMTA3SDUwLjUzVjQ4LjczaDE3LjM2djhoLjI0YzIuNDItNC41OCA4LjMyLTkuNDEgMTcuMTMtOS40MUMxMDMuNiA0Ny4yOCAxMDcgNTkuMzUgMTA3IDc1eiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/felipeaugusto-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-222831?style=flat-square&logo=instagram&logoColor=EEEEEE)](https://instagram.com/)

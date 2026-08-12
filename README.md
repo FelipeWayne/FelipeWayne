@@ -1,102 +1,47 @@
+<img src="assets/banner-blueprint.svg" alt="FELIPEWAYNE — automação, RPA e IA" width="100%">
 
-<!--
-How to make this gif ?
+<br>
 
-I made my with https://codesandbox.io/s/github-profile-2ijk7
-Then i recorded my screen to gif on Mac with Quicktime  and save result to [assets/github.mov](assets/github.mov)
-This [gist](https://gist.github.com/tskaggs/6394639) help me to create a dedicated command that convert MOV to GIF.
-Type this command `make generate-gif` to generate [assets/github.gif](assets/github.gif)
--->
+`[ SOBRE ]`
 
+Construo automações que rodam de madrugada e continuam de pé quando ninguém está olhando. 
+RPA, integrações e IA aplicada em operações de PME, quase sempre em Python. 
+Também digo quando **não** vale automatizar. Isso economiza mais tempo que qualquer bot.
 
+`[ STACK // O QUE EU REALMENTE USO ]`
 
+![Python](https://img.shields.io/badge/Python-31363F?style=flat-square&logo=python&logoColor=EEEEEE) ![Playwright](https://img.shields.io/badge/Playwright-31363F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjRUVFRUVFIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtNzIuMDg2IDg2LjEzMi0uNTk0LS4xNDRjLTEzLjEyNS0zLjg0NC0xNS4xNS0xNC4zMTEtMTUuMTUtMTQuMzExbDE4LjE4MiA1LjA4Mkw4NC4xNSAzOS43N2wtLjExNi0uMDMxYy0xMS44MDctMy4xNjItMTkuNjQtOC42OTItMjIuNzQ0LTExLjI5Mi00LjQtMy42ODUtNi4zMzUtNi4yNDYtOC4yNC0yLjM3Mi0xLjY4MiAzLjQxNy0zLjgzNiA4Ljk3Ny01LjkyIDE2Ljc2Mi00LjUxNiAxNi44NTctNy44OTIgNTIuNDI5IDIwLjAyNyA1OS45MTRsLjU3Mi4xMjl6bS0xOC44MDctMzAuODVzNC40LTYuODQzIDExLjg2Mi00LjcyMmM3LjQ2NyAyLjEyMSA4LjA0NSAxMC4zNzYgOC4wNDUgMTAuMzc2em0tOC41MTcgMjMuNDUxTDMxLjc4NyA4Mi40MXMxLjQxLTguMDI5IDEwLjk2OC0xMS4yMTJsLTcuMzQ3LTI3LjU3My0uNjM1LjE5M2MtOS4xMTEgMi40NTctMTYuNDc2IDEuODA1LTE5LjU1IDEuMjczLTQuMzU3LS43NTEtNi42MzYtMS43MDgtNi40MjIgMS42MDYuMTg2IDIuOTIzLjg4MiA3LjQ1NCAyLjQ3NyAxMy40NCAzLjQ1IDEyLjk2MSAxNC44NTQgMzcuOTM3IDM2LjQwNSAzMi4xMzJsLjYzNS0uMTk5LTMuNTU1LTEzLjMzN1pNMTkuNTQ4IDYwLjMxNWwxNS4zMTYtNC4wMzVzLS40NDYgNS44OTItNi4xODggNy40MDVjLTUuNzQzIDEuNTEyLTkuMTI4LTMuMzcxLTkuMTI4LTMuMzcxem04OS44MjQtMTguOTc5Yy0zLjk4MS42OTgtMTMuNTMyIDEuNTY3LTI1LjMzNi0xLjU5Ni0xMS44MDctMy4xNjItMTkuNjQtOC42OTItMjIuNzQ0LTExLjI5Mi00LjQtMy42ODUtNi4zMzUtNi4yNDYtOC4yNC0yLjM3Mi0xLjY4NCAzLjQxNy0zLjgzNyA4Ljk3Ny01LjkyMSAxNi43NjItNC41MTYgMTYuODU3LTcuODkyIDUyLjQyOSAyMC4wMjcgNTkuOTE0IDI3LjkxMiA3LjQ3OSA0Mi43NzItMjUuMDE3IDQ3LjI4OS00MS44NzUgMi4wODQtNy43ODMgMi45OTgtMTMuNjc2IDMuMjUtMTcuNDc2LjI4Ny00LjMwNS0yLjY3LTMuMDU1LTguMzI0LTIuMDY0ek01My4yOCA1NS4yODJzNC40LTYuODQzIDExLjg2Mi00LjcyMmM3LjQ2NyAyLjEyMSA4LjA0NSAxMC4zNzYgOC4wNDUgMTAuMzc2em0xOC4yMTUgMzAuNzA2Yy0xMy4xMjUtMy44NDUtMTUuMTUtMTQuMzExLTE1LjE1LTE0LjMxMWwzNS4yNTkgOS44NThjMC0uMDAyLTcuMTE3IDguMjUtMjAuMTA5IDQuNDUzem0xMi40NjYtMjEuNTFzNC4zOTQtNi44MzggMTEuODU0LTQuNzExYzcuNDYgMi4xMjQgOC4wNDggMTAuMzc5IDguMDQ4IDEwLjM3OXpNNTEuNzMyIDgzLjkzNXYtNy4xNzlsLTE5Ljk0NSA1LjY1NnMxLjQ3NC04LjU2MyAxMS44NzYtMTEuNTE0YzMuMTU1LS44OTQgNS44NDYtLjg4OCA4LjA2OS0uNDU5VjQwLjk5NWg5Ljk4N2MtMS4wODctMy4zNi0yLjEzOS01Ljk0Ny0zLjAyMy03Ljc0NC0xLjQ2MS0yLjk3NS0yLjk2LTEuMDAzLTYuMzYxIDEuODQyLTIuMzk2IDIuMDAxLTguNDUgNi4yNzEtMTcuNTYxIDguNzI2LTkuMTExIDIuNDU3LTE2LjQ3NiAxLjgwNS0xOS41NSAxLjI3My00LjM1Ny0uNzUyLTYuNjM2LTEuNzA4LTYuNDIyIDEuNjA1LjE4NiAyLjkyMy44ODIgNy40NTUgMi40NzcgMTMuNDQgMy40NSAxMi45NjIgMTQuODU0IDM3LjkzNyAzNi40MDUgMzIuMTMyIDUuNjI5LTEuNTE3IDkuNjAzLTQuNTE1IDEyLjM1Ny04LjMzNmgtOC4zMDlabS0zMi4xODUtMjMuNjIgMTUuMzE2LTQuMDM1cy0uNDQ2IDUuODkyLTYuMTg4IDcuNDA1Yy01Ljc0MyAxLjUxMi05LjEyOC0zLjM3MS05LjEyOC0zLjM3MXoiLz48L3N2Zz4%3D) ![Selenium](https://img.shields.io/badge/Selenium-31363F?style=flat-square&logo=selenium&logoColor=EEEEEE) ![Pandas](https://img.shields.io/badge/Pandas-31363F?style=flat-square&logo=pandas&logoColor=EEEEEE) ![FastAPI](https://img.shields.io/badge/FastAPI-31363F?style=flat-square&logo=fastapi&logoColor=EEEEEE) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31363F?style=flat-square&logo=postgresql&logoColor=EEEEEE) ![Docker](https://img.shields.io/badge/Docker-31363F?style=flat-square&logo=docker&logoColor=EEEEEE) ![n8n](https://img.shields.io/badge/n8n-31363F?style=flat-square&logo=n8n&logoColor=EEEEEE) ![UiPath](https://img.shields.io/badge/UiPath-31363F?style=flat-square&logo=uipath&logoColor=EEEEEE) ![Git](https://img.shields.io/badge/Git-31363F?style=flat-square&logo=git&logoColor=EEEEEE)
 
+`[ PROJETOS // EM DESTAQUE ]`
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Augusto</h1>
+<a href="https://github.com/FelipeWayne/REFramework"><img src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/pin/?username=FelipeWayne&repo=REFramework&bg_color=222831&title_color=76ABAE&icon_color=76ABAE&text_color=EEEEEE&border_color=76ABAE&border_radius=0" width="49.5%" alt="REFramework"></a> <a href="https://github.com/FelipeWayne/automation-n8n"><img src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/pin/?username=FelipeWayne&repo=automation-n8n&bg_color=222831&title_color=76ABAE&icon_color=76ABAE&text_color=EEEEEE&border_color=76ABAE&border_radius=0" width="49.5%" alt="automation-n8n"></a>
+<!-- ao tornar públicos Py-Framework-RPA / polvo-assistant, duplicar o bloco acima trocando o repo= -->
 
-- 🔥 Computer Science student passionate about web development
+[`> ver todos os repositórios`](https://github.com/FelipeWayne?tab=repositories)
 
-- 👨‍💻 All of my projects are available at [felipewayne.dev](https://felipewayne.dev)
+`[ GITHUB // NÚMEROS ]`
 
-- 💬 Ask me about **RPA, JavaScript, HTML, CSS, SQL, Node.JS**
+<img src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api?username=FelipeWayne&show_icons=true&rank_icon=github&exclude_repo=chatwoot_app,chatwoot&card_width=479&bg_color=222831&title_color=76ABAE&icon_color=76ABAE&text_color=EEEEEE&border_color=76ABAE&border_radius=0" width="49.5%" alt="Estatísticas do GitHub de FelipeWayne"> <img src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&langs_count=8&exclude_repo=chatwoot_app,chatwoot&card_width=467&bg_color=222831&title_color=76ABAE&icon_color=76ABAE&text_color=EEEEEE&border_color=76ABAE&border_radius=0" width="49.5%" alt="Linguagens mais usadas por FelipeWayne">
 
-- ⚡ Fun fact: Enthusiast of the Maker Movement.
+`[ CONTEÚDO // ÚLTIMOS POSTS ]`
 
-<br><br>
+<!-- placeholder: trocar por posts reais quando publicar -->
 
-## 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+- [Título do post](https://www.linkedin.com/in/felipewayne-dev/) — LinkedIn
+- [Título do post](https://www.linkedin.com/in/felipewayne-dev/) — LinkedIn
+- [Título do post](https://felipewayne.dev) — felipewayne.dev
 
-<br><br>
+<img src="assets/divider.svg" alt="" width="100%">
 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="middle">
-  <a href="https://wakatime.com/@b6856679-2185-4215-b6da-6d2e5f2ab4ec"><img src="https://wakatime.com/badge/user/b6856679-2185-4215-b6da-6d2e5f2ab4ec.svg" alt="Total time coded since Jun 15 2020" /></a>
-  <p align="middle">
+`[ CONTATO ]`
 
-<p align="middle">
-<img width="530em" src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api?username=felipewayne&show_icons=true&theme=vision-friendly-dark&exclude_repo=chatwoot_app,chatwoot&rank_icon=github" alt="FelipeWayne's stats"/>
-<img width="530em" src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/top-langs/?username=FelipeWayne&layout=compact&theme=vision-friendly-dark&exclude_repo=chatwoot_app,chatwoot" alt="FelipeWayne's most languages"/>
-<img width="530em" src="https://github-readme-stats-felipe-waynes-projects.vercel.app/api/wakatime?username=FelipeWayne&theme=vision-friendly-dark&layout=compact&langs_count=20" alt="WakaTime Stats"/>
- <!-- <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeWayne&theme=vision-friendly-dark" alt="GitHub streak stats"/> -->
+Tem alguma tarefa chata que se repete toda semana? Me conta qual é — se der para automatizar, eu digo como. Se não der, eu digo isso também.
 
-<p align="middle">
+```console
+felipe@wayne:~$ ./contato.sh
+> qual é a tarefa chata que você quer automatizar?
+```
 
-
-<br><br>
-
-## 👨🏽‍🦲 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-
-<a href="https://linkedin.com/in/felipewayne-dev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-felipewayne-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/felipe_wayne_" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-felipe_wayne_-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-
-</p>
-
-
-
-
-
-<!--
-
-<a href="https://codepen.io/NikeName" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/NikeName" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-
-<a href="https://youtube.com/NikeName" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=NikeName&layout=wide&show_reply=off&show_retweet=off" />
-
-**FelipeWayne/FelipeWayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Site](https://img.shields.io/badge/felipewayne.dev-222831?style=flat-square)](https://felipewayne.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-222831?style=flat-square)](https://www.linkedin.com/in/felipewayne-dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-222831?style=flat-square)](https://instagram.com/felipe_wayne_)
